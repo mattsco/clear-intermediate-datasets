@@ -1,0 +1,15 @@
+{
+  "actions": [
+    {
+      "ts": 1555177127701,
+      "action": "INSTALL",
+      "user": "admin"
+    }
+  ],
+  "gitState": {
+    "enabled": true,
+    "repository": "git@github.com:mattsco/clear-intermediate-datasets.git",
+    "path": "",
+    "checkout": ""
+  }
+}
