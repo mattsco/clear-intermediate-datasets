@@ -2,8 +2,8 @@
 {
     /* Meta data for display purposes */
     "meta" : {
-        "label" : "Clear intermediate datasets",
-        "description" : "Drop data from intermediate datasets of a Flow.",
+        "label" : "Clear intermediate datasets  Mattsco version",
+        "description" : "Drop data from intermediate datasets of a Flow.  Mattsco version",
         "icon" : "icon-trash"
     },
 
